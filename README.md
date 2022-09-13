@@ -1,3 +1,2 @@
 # test2
-
-some texts...
+Some updates from test branch
